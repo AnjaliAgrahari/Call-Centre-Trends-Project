@@ -1,7 +1,7 @@
 # Call-Centre-Trends-Project
 Visualising customer and agent behaviour.
 
-t’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. Best for young urbanites there. But what do customers really want? Our client, a big telecom company needs to know. 
+It’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. Best for young urbanites there. But what do customers really want? Our client, a big telecom company needs to know. 
 
 Following Tasks:
 
